@@ -1,10 +1,10 @@
 # badger-cli
-Simple CLI to work with badger key/value database
+Simple CLI to work with [badgerDB](https://github.com/dgraph-io/badger) key/value database 
 
 
 # Usage
 
-```bash
+```
 Usage:
   app [command]
 

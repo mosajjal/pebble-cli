@@ -1,5 +1,5 @@
-# badger-cli
-Simple CLI to work with [badgerDB](https://github.com/dgraph-io/badger) key/value database 
+# pebble-cli
+Simple CLI to work with [pebble](github.com/cockroachdb/pebble) key/value database 
 
 
 # Usage

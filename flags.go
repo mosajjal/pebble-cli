@@ -10,7 +10,7 @@ func main() {
 	var cmdIndex = &cobra.Command{
 		Use:   "index [arguments]",
 		Short: "Index the csv from stdin to the database",
-		Long: `For any csv file being inserted into the database, the first column will be used as key, 
+		Long: `For any csv file being inserted into the database, the first column will be used as key,
 		and the rest will be used as value. the delimeter is always ','`,
 		Args: cobra.ExactArgs(0),
 		Run: func(cmd *cobra.Command, args []string) {

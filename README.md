@@ -1,5 +1,5 @@
 # pebble-cli
-Simple CLI to work with [pebble](github.com/cockroachdb/pebble) key/value database 
+Simple CLI to work with [pebble](https://github.com/cockroachdb/pebble) key/value database 
 
 
 # Usage
